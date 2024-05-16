@@ -3,7 +3,8 @@
     padding: 0;
     text-align: center;
     background-color:rgb(57, 99, 99) ; 
-}h1{
+}
+h1{
     background-color: aqua;
     color: #fff;
     height: 5rem;
@@ -68,8 +69,6 @@ img{
     padding: 10px; /* Pads the scores for better visibility */
     border-radius: 5px; /* Rounds the corners of the score boxes */
 }
-
-
 
 /*
 .score-board{
